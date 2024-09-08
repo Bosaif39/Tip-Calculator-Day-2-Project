@@ -2,7 +2,8 @@
 
 **Overview:**
 
-This is the day 2 project of the course 100 Days of Code: The Complete Python Pro Bootcamp.
+This project is from Day 2 of the course "100 Days of Code: The Complete Python Pro Bootcamp." It is a simple tip calculator that helps users determine how much each person should pay when splitting a bill, including a tip.
+
 
 **How It Works:**
 
