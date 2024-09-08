@@ -10,7 +10,7 @@ It takes the total bill, and the percentage tip and split the bill based on the 
 
 **Example**
 
-![alt text](https://github.com/Bosaif39/example-pics/blob/main/D2.png?raw=true)
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_2.png?raw=true)
 
 **Requirements:**
 
