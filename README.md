@@ -9,7 +9,7 @@ This project is from Day 2 of the course "100 Days of Code: The Complete Python 
 
 It takes the total bill, and the percentage tip and splits the bill based on the user input.
 
-## **Example**
+## **Example:**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_2.png?raw=true)
 
