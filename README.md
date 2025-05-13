@@ -15,4 +15,4 @@ It takes the total bill, and the percentage tip and splits the bill based on the
 
 ## **Requirements:**
 
-Python 3.x
+* Python 3.x
